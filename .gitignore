@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.railway/
+bot_database.db
+bot_database.db-*
+bot_database.db.lock
+*.sqlite
+*.sqlite3
+*.bak
+__pycache__/
+*.py[cod]
+.venv/
+.test-deps*/
+*.log

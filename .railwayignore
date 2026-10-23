@@ -1,0 +1,10 @@
+.env
+.env.*
+bot_database.db*
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+.railway/
+__pycache__/
+*.py[cod]

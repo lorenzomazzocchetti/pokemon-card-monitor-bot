@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+bot_database.db
+bot_database.db-*
+bot_database.db.lock
+*.sqlite
+*.sqlite3
+*.bak
+__pycache__/
+*.py[cod]
+tests/
